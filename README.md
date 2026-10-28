@@ -146,3 +146,4 @@ The script will run the automated `gradcheck`, train all 3 network variants, str
 
 ## ⏭️ Next Up in the 100 Projects Series
 - **Project 06**: Batch Normalization Deep Dive (Internal Covariate Shift, Running Statistics, and Inference Switching)
+
